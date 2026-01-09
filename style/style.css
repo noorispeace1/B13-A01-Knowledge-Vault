@@ -53,10 +53,10 @@
     color: #2DCA73;
     border: 1.5px solid #2DCA73;
     border-radius: 50px;
-    background-color: transparent;
+   background-color: #24a35c;
     cursor: pointer;
     transition: all 0.3s ease;
-    text-decoration: none;
+    text-decoration: bluegit;
     display: inline-block;
 }
 
@@ -254,7 +254,7 @@
     text-align: center;
 }
 
-/* মেইন ইমেজ পজিশন */
+
 .solution-main-image {
     margin-bottom: 50px;
 }
